@@ -2,7 +2,6 @@
 Stack is a class written to use it when it comes to keeping track of all the movements that a player has made
 """
 
-
 def Stack(object):
 
     def __init__(self):
