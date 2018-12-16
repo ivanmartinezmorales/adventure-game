@@ -1,0 +1,35 @@
+{
+  "storyTitle": "The plumber's tale",
+  "storyDescription":
+    "Meet the plumber, Joe. Joe is an unambitious man, he's lost sight of his goals after graduating high school in the middle of his class. He works as a plumber to support his family of five, but is chronically depressed and takes his frustration out on his kids.",
+
+  "financials": [
+    {
+      "type": "debtTotal",
+      "number": "134400"
+    },
+    {
+      "type": "ccDebt",
+      "number": "13000"
+    },
+    {
+      "type": "mortgageDebt",
+      "number": "121400"
+    },
+    {
+      "type": "yearlyIncome",
+      "number": "29000"
+    }
+  ],
+
+  "beginPrompt": [
+    {
+      "firstPrompt":
+        "I'm opening up my eyes for the first time. I can't believe that I'm really 31 today. I can't believe that my life has just passed me by. I have Jenna, and Marley, and Kendra. I should be the happiest man in the world, but I have nothing. Fuck these feelings, let me just get up and get my day started.",
+      "secondPrompt":
+        "NARRATOR: So Joe seems pretty miserable in his current situation. Let's look at his account: ",
+      "thirdPrompt":
+        "Isn't that depressing? Living a life for his family, for his kids, to provide for a wife that doesn't love him? Can it be real? Can Joe be this unfulfilled with his life?"
+    }
+  ]
+}
